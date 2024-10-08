@@ -1,0 +1,9 @@
+[submodule "B1B2"]
+	path = B1B2
+	url = git@github.com:upessocs/B1B2.git
+[submodule "B3B4"]
+	path = B3B4
+	url = git@github.com:upessocs/B3B4.git
+[submodule "B5B6"]
+	path = B5B6
+	url = git@github.com:upessocs/B5B6.git
